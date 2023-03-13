@@ -3,7 +3,7 @@
     <title>PHP base</title>
 </head>
 <body>
-    <div class="main">
+    <div class="main" style="width: 100%">
         <h1>
             <?php
                 // Выводим на экран строчку
@@ -13,7 +13,7 @@
                     Многострочные
                     комментарии
                  */
-                echo 'Hello world!';
+                echo 'Hello world!!';
             ?>
             <?= 'Hello world!'; ?>
         </h1>
