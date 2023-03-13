@@ -2,7 +2,7 @@
 <head>
     <title>PHP base</title>
 </head>
-<body>
+<body class="body">
     <div class="main" style="width: 100%">
         <h1>
             <?php
