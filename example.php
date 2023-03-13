@@ -23,3 +23,6 @@ $int = 1;
 
 // false
 $result = $float === $int;
+
+
+echo 'Hello world';
