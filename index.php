@@ -1,6 +1,13 @@
 <html>
 <head>
-    <title>PHP base</title>
+    <title>
+        PHP base
+    </title>
+    <style>
+        body {
+            font-size: 16px;
+        }
+    </style>
 </head>
 <body class="body">
     <div class="main" style="width: 100%">
