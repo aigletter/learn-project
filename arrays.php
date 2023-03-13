@@ -64,4 +64,4 @@ print_r($student);
 
 //echo $student['courses']['PHP'] . PHP_EOL;
 
-echo count($student) . PHP_EOL;
+//echo count($student) . PHP_EOL;
