@@ -9,7 +9,7 @@
         }
     </style>
 </head>
-<body class="body">
+<body class="temp">
     <div class="main" style="width: 100%">
         <h1>
             <?php
