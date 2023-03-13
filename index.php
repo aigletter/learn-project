@@ -20,10 +20,13 @@
                     Многострочные
                     комментарии
                  */
-                echo 'Hello world!!!';
+                echo 'Ветка feature';
             ?>
             <?= 'Hello world!'; ?>
         </h1>
+        <section class="content">
+            <p>Что-либо</p>
+        </section>
     </div>
 </body>
 </html>
