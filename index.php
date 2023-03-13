@@ -17,6 +17,9 @@
             ?>
             <?= 'Hello world!'; ?>
         </h1>
+        <section class="content">
+            <p>Что-либо</p>
+        </section>
     </div>
 </body>
 </html>
