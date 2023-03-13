@@ -13,7 +13,7 @@
                     Многострочные
                     комментарии
                  */
-                echo 'Hello world!!!';
+                echo 'Ветка feature';
             ?>
             <?= 'Hello world!'; ?>
         </h1>
